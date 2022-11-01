@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.b65e5aa8.css",
-    "main.js": "/static/js/main.9baf5180.js",
+    "main.css": "/static/css/main.5dc67c43.css",
+    "main.js": "/static/js/main.9a9561ef.js",
     "static/media/hero-bg.png": "/static/media/hero-bg.4387a6e8a49bb34b5f07.png",
     "static/media/String Bag.webp": "/static/media/String Bag.91a12a13368cc8a422a8.webp",
+    "static/media/Elham Soudy - WiG.jpg": "/static/media/Elham Soudy - WiG.9fbe984dcc41706c2f66.jpg",
     "static/media/Linda_Ochwada.jpg": "/static/media/Linda_Ochwada.67b50345e3b26d5dca4d.jpg",
     "static/media/Cyhana_Williams.jpg": "/static/media/Cyhana_Williams.d41a7f9e84219ac9ac84.jpg",
     "static/media/T-Shirt.webp": "/static/media/T-Shirt.e7c36926cc6646e3dfa0.webp",
@@ -43,11 +44,11 @@
     "static/media/youtube.svg": "/static/media/youtube.4fe0e9f8d764f804ede8f63ee8c305d0.svg",
     "static/media/gmail_logo.svg": "/static/media/gmail_logo.20655b56fa303c58b95b302aa6b15391.svg",
     "index.html": "/index.html",
-    "main.b65e5aa8.css.map": "/static/css/main.b65e5aa8.css.map",
-    "main.9baf5180.js.map": "/static/js/main.9baf5180.js.map"
+    "main.5dc67c43.css.map": "/static/css/main.5dc67c43.css.map",
+    "main.9a9561ef.js.map": "/static/js/main.9a9561ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.b65e5aa8.css",
-    "static/js/main.9baf5180.js"
+    "static/css/main.5dc67c43.css",
+    "static/js/main.9a9561ef.js"
   ]
 }
