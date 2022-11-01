@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b223033.css",
-    "main.js": "/static/js/main.6321922b.js",
+    "main.css": "/static/css/main.d18bd0f9.css",
+    "main.js": "/static/js/main.ed8e0b9c.js",
     "static/media/hero-bg.png": "/static/media/hero-bg.4387a6e8a49bb34b5f07.png",
     "static/media/String Bag.webp": "/static/media/String Bag.91a12a13368cc8a422a8.webp",
     "static/media/Elham Soudy - WiG.jpg": "/static/media/Elham Soudy - WiG.9fbe984dcc41706c2f66.jpg",
@@ -44,11 +44,11 @@
     "static/media/youtube.svg": "/static/media/youtube.4fe0e9f8d764f804ede8f63ee8c305d0.svg",
     "static/media/gmail_logo.svg": "/static/media/gmail_logo.20655b56fa303c58b95b302aa6b15391.svg",
     "index.html": "/index.html",
-    "main.3b223033.css.map": "/static/css/main.3b223033.css.map",
-    "main.6321922b.js.map": "/static/js/main.6321922b.js.map"
+    "main.d18bd0f9.css.map": "/static/css/main.d18bd0f9.css.map",
+    "main.ed8e0b9c.js.map": "/static/js/main.ed8e0b9c.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b223033.css",
-    "static/js/main.6321922b.js"
+    "static/css/main.d18bd0f9.css",
+    "static/js/main.ed8e0b9c.js"
   ]
 }
