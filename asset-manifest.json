@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.07c2b880.css",
-    "main.js": "/static/js/main.cc63974d.js",
+    "main.js": "/static/js/main.9f076cdf.js",
     "static/media/hero-bg.png": "/static/media/hero-bg.4387a6e8a49bb34b5f07.png",
     "static/media/String Bag.webp": "/static/media/String Bag.91a12a13368cc8a422a8.webp",
     "static/media/Elham Soudy - WiG.jpg": "/static/media/Elham Soudy - WiG.9fbe984dcc41706c2f66.jpg",
@@ -45,10 +45,10 @@
     "static/media/gmail_logo.svg": "/static/media/gmail_logo.20655b56fa303c58b95b302aa6b15391.svg",
     "index.html": "/index.html",
     "main.07c2b880.css.map": "/static/css/main.07c2b880.css.map",
-    "main.cc63974d.js.map": "/static/js/main.cc63974d.js.map"
+    "main.9f076cdf.js.map": "/static/js/main.9f076cdf.js.map"
   },
   "entrypoints": [
     "static/css/main.07c2b880.css",
-    "static/js/main.cc63974d.js"
+    "static/js/main.9f076cdf.js"
   ]
 }
