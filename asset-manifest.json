@@ -1,8 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.07c2b880.css",
-    "main.js": "/static/js/main.257ad23b.js",
+    "main.js": "/static/js/main.e218cf15.js",
+    "static/media/drkenneth.png": "/static/media/drkenneth.4f89e835bf578657313c.png",
     "static/media/hero-bg.png": "/static/media/hero-bg.4387a6e8a49bb34b5f07.png",
+    "static/media/Chidimma Umeogu - Geocomm_Vol Sess.png": "/static/media/Chidimma Umeogu - Geocomm_Vol Sess.1b5d122c01a8df651d83.png",
     "static/media/String Bag.webp": "/static/media/String Bag.91a12a13368cc8a422a8.webp",
     "static/media/Elham Soudy - WiG.jpg": "/static/media/Elham Soudy - WiG.9fbe984dcc41706c2f66.jpg",
     "static/media/Linda_Ochwada.jpg": "/static/media/Linda_Ochwada.67b50345e3b26d5dca4d.jpg",
@@ -20,6 +22,7 @@
     "static/media/Instagram.svg": "/static/media/Instagram.71c16e239dd4286b01e1306a9c4ee6a4.svg",
     "static/media/Dr_Clara_Mundia.jpg": "/static/media/Dr_Clara_Mundia.8dd54868463902772a99.jpg",
     "static/media/Bottle.webp": "/static/media/Bottle.16c0ab260913ca30c5e0.webp",
+    "static/media/Geoffrey.jpg": "/static/media/Geoffrey.e1930ea50bafcf2e1f40.jpg",
     "static/media/juwon_ishola.webp": "/static/media/juwon_ishola.fd9e662cdd98b75e1ddc.webp",
     "static/media/ademoyero_victor.webp": "/static/media/ademoyero_victor.3978fc169cacc9cdff03.webp",
     "static/media/fortune_emeka.webp": "/static/media/fortune_emeka.59d2fde4682c3d3bcfe7.webp",
@@ -45,10 +48,10 @@
     "static/media/gmail_logo.svg": "/static/media/gmail_logo.20655b56fa303c58b95b302aa6b15391.svg",
     "index.html": "/index.html",
     "main.07c2b880.css.map": "/static/css/main.07c2b880.css.map",
-    "main.257ad23b.js.map": "/static/js/main.257ad23b.js.map"
+    "main.e218cf15.js.map": "/static/js/main.e218cf15.js.map"
   },
   "entrypoints": [
     "static/css/main.07c2b880.css",
-    "static/js/main.257ad23b.js"
+    "static/js/main.e218cf15.js"
   ]
 }
