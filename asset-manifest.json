@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.07c2b880.css",
-    "main.js": "/static/js/main.e218cf15.js",
+    "main.js": "/static/js/main.946e5c3b.js",
     "static/media/drkenneth.png": "/static/media/drkenneth.4f89e835bf578657313c.png",
     "static/media/hero-bg.png": "/static/media/hero-bg.4387a6e8a49bb34b5f07.png",
     "static/media/Chidimma Umeogu - Geocomm_Vol Sess.png": "/static/media/Chidimma Umeogu - Geocomm_Vol Sess.1b5d122c01a8df651d83.png",
@@ -48,10 +48,10 @@
     "static/media/gmail_logo.svg": "/static/media/gmail_logo.20655b56fa303c58b95b302aa6b15391.svg",
     "index.html": "/index.html",
     "main.07c2b880.css.map": "/static/css/main.07c2b880.css.map",
-    "main.e218cf15.js.map": "/static/js/main.e218cf15.js.map"
+    "main.946e5c3b.js.map": "/static/js/main.946e5c3b.js.map"
   },
   "entrypoints": [
     "static/css/main.07c2b880.css",
-    "static/js/main.e218cf15.js"
+    "static/js/main.946e5c3b.js"
   ]
 }
