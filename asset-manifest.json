@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.07c2b880.css",
-    "main.js": "/static/js/main.946e5c3b.js",
+    "main.css": "/static/css/main.282aff8a.css",
+    "main.js": "/static/js/main.f5bac014.js",
     "static/media/drkenneth.png": "/static/media/drkenneth.4f89e835bf578657313c.png",
     "static/media/hero-bg.png": "/static/media/hero-bg.4387a6e8a49bb34b5f07.png",
     "static/media/Chidimma Umeogu - Geocomm_Vol Sess.png": "/static/media/Chidimma Umeogu - Geocomm_Vol Sess.1b5d122c01a8df651d83.png",
@@ -47,11 +47,11 @@
     "static/media/youtube.svg": "/static/media/youtube.4fe0e9f8d764f804ede8f63ee8c305d0.svg",
     "static/media/gmail_logo.svg": "/static/media/gmail_logo.20655b56fa303c58b95b302aa6b15391.svg",
     "index.html": "/index.html",
-    "main.07c2b880.css.map": "/static/css/main.07c2b880.css.map",
-    "main.946e5c3b.js.map": "/static/js/main.946e5c3b.js.map"
+    "main.282aff8a.css.map": "/static/css/main.282aff8a.css.map",
+    "main.f5bac014.js.map": "/static/js/main.f5bac014.js.map"
   },
   "entrypoints": [
-    "static/css/main.07c2b880.css",
-    "static/js/main.946e5c3b.js"
+    "static/css/main.282aff8a.css",
+    "static/js/main.f5bac014.js"
   ]
 }
