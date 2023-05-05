@@ -4,6 +4,7 @@
     grid-template-rows: 1fr;
     grid-template-areas: 
     "header";
+   
 
 }
 
@@ -13,7 +14,9 @@
     background-repeat: no-repeat; 
     height: var(--hero-height);
     background-size: cover;
-    background-position: var(--hero-background-position);
+    background-position: var(--hero-background-position); 
+    height: fit-content;
+    padding-bottom: 2rem;
     
 }
 

@@ -9,7 +9,7 @@ import '../Schedule/Schedule.css';
 // import CountDown from "../../components/CountDown/CountDown";
 import Merchandise from "../../components/Merchandise/Merchandise";
 import { BsFillCollectionPlayFill } from "react-icons/bs";
-
+import {BsFillBriefcaseFill} from 'react-icons/bs'
 
 const HomePage = () => {
 
@@ -31,11 +31,20 @@ const HomePage = () => {
             <h2>10 - 11th November, 2023  | </h2>
             <h2>Lagos, Nigeria.</h2>
           </div>
+          <div className="cta-buttons">
           <div className="cta-button">
             <a className="pro-button" href="https://www.youtube.com/@gisfest/videos" rel="noreferrer" target='_blank'>
               <BsFillCollectionPlayFill className="pro-Icon" />
-              <span className="pro-text">GISfest 2022 Proceedings</span>
+              <span className="pro-text">#GISfest2022 Proceedings</span>
             </a>
+          </div>
+          <div className="cta-button">
+            <a className="pro-button" href="https://drive.google.com/file/d/1gNvxACEe804idXnpsOeLzPMBBauDYV-K/view?usp=sharing" rel="noreferrer" target='_blank'>
+              <BsFillBriefcaseFill className="pro-Icon" />
+              <span className="pro-text">Become a sponsor</span>
+            </a>
+          </div>
+          
           </div>
           
 
